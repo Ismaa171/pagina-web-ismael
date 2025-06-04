@@ -1,9 +1,12 @@
-# Rama 3: JavaScript básico
+# Rama 4: Funciones JavaScript y mejoras
 
-## Comandos utilizados
+Esta rama mejora la lógica del botón de fondo y estructura mejor el código JS.
 
-```bash
-git checkout -b rama3-javascript
-git add .
-git commit -m "Añadido script básico para cambiar el fondo"
-```
+## Cambios principales
+- Mejora en la función `cambiarFondo()` para alternar entre varios colores
+- Código más limpio y legible
+- Validación y pruebas en el navegador
+
+---
+
+El proyecto empieza a integrar funcionalidades útiles para el usuario.
