@@ -1,12 +1,17 @@
-# Rama 5: CSS responsivo
+# Rama 6: Publicación y documentación final
 
-En esta rama se optimiza el diseño para pantallas pequeñas y medianas usando `media queries`.
+Esta rama incluye la documentación final y está lista para ser publicada en GitHub Pages.
 
-## Cambios principales
-- Responsividad para tablets y móviles
-- Ajustes de ancho en `.personaje`
-- Mejor visualización en distintas resoluciones
+## Contenido añadido
+- Archivo `README.md` informativo
+- Código final completo (HTML, CSS, JS)
+- Preparación para despliegue en GitHub Pages
+
+## Publicación
+1. Ve a Settings > Pages en GitHub.
+2. Selecciona esta rama (`rama6-publicacion`) como fuente.
+3. Espera unos segundos hasta que se genere el sitio.
 
 ---
 
-Permite que la página sea accesible desde cualquier dispositivo.
+Gracias por visitar esta fanpage de One Piece. ☠️🏴‍☠️
