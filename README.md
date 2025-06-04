@@ -1,9 +1,12 @@
-# Rama 3: JavaScript básico
+# Rama 5: CSS responsivo
 
-## Comandos utilizados
+En esta rama se optimiza el diseño para pantallas pequeñas y medianas usando `media queries`.
 
-```bash
-git checkout -b rama3-javascript
-git add .
-git commit -m "Añadido script básico para cambiar el fondo"
-```
+## Cambios principales
+- Responsividad para tablets y móviles
+- Ajustes de ancho en `.personaje`
+- Mejor visualización en distintas resoluciones
+
+---
+
+Permite que la página sea accesible desde cualquier dispositivo.
