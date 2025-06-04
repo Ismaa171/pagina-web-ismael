@@ -1,9 +1,12 @@
 # Rama 3: JavaScript básico
 
-## Comandos utilizados
+Se incluye un archivo `script.js` con una función básica para modificar el fondo de la página.
 
-```bash
-git checkout -b rama3-javascript
-git add .
-git commit -m "Añadido script básico para cambiar el fondo"
-```
+## Cambios principales
+- Archivo `script.js` enlazado en el HTML
+- Botón "Cambiar fondo" en el `<footer>`
+- Función que alterna colores de fondo
+
+---
+
+Introduce interactividad básica mediante JavaScript.
