@@ -1,9 +1,13 @@
-# Rama 3: JavaScript básico
+# Rama 2: Estructura HTML + CSS básico
 
-## Comandos utilizados
+Esta rama incluye los archivos `index.html` y `estilos.css`, mejorando el diseño visual del proyecto.
 
-```bash
-git checkout -b rama3-javascript
-git add .
-git commit -m "Añadido script básico para cambiar el fondo"
-```
+## Cambios principales
+- Se añaden estilos básicos en `estilos.css`
+- Estructura de personajes con `display: flex`
+- Colores de fondo, texto y márgenes
+- Separación visual entre personajes y secciones
+
+---
+
+La estructura es más clara y amigable para el usuario.
